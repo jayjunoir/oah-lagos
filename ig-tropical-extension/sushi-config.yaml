@@ -1,0 +1,11 @@
+id: oah.lagos.tropical
+canonical: https://oneaquahealth.eu/fhir/ig/tropical-extension
+name: OAHTropicalExtension
+title: "OneAquaHealth Tropical Extension IG"
+status: draft
+version: 0.1.0
+fhirVersion: 4.0.1
+copyrightYear: 2026
+releaseLabel: draft
+publisher:
+  name: "OAH-Lagos Project Team"

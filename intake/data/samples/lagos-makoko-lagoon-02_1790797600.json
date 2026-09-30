@@ -1,0 +1,15 @@
+{
+  "site_id": "lagos-makoko-lagoon-02",
+  "site_name": "Makoko Waterfront Outfall",
+  "latitude": 6.4969,
+  "longitude": 3.3892,
+  "timestamp": "2026-09-30T19:46:40.197000Z",
+  "water_temp_celsius": 31.2,
+  "ph": 7.4,
+  "dissolved_oxygen_mg_l": 0.8,
+  "turbidity_ntu": 65.0,
+  "channel_type": "lagoon_adjacent",
+  "mosquito_larvae": "high_over_10_per_dip",
+  "waste_severity": "choked_flow_obstructed",
+  "photo_urls": []
+}

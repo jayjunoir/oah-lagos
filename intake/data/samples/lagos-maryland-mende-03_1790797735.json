@@ -1,0 +1,15 @@
+{
+  "site_id": "lagos-maryland-mende-03",
+  "site_name": "Mende Stream Earthen Reach",
+  "latitude": 6.5742,
+  "longitude": 3.3711,
+  "timestamp": "2026-09-30T19:48:55.070000Z",
+  "water_temp_celsius": 28.5,
+  "ph": 6.7,
+  "dissolved_oxygen_mg_l": 3.2,
+  "turbidity_ntu": 22.0,
+  "channel_type": "natural_stream",
+  "mosquito_larvae": "low_1_10_per_dip",
+  "waste_severity": "moderate_bank_litter",
+  "photo_urls": []
+}

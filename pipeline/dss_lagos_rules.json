@@ -1,0 +1,52 @@
+{
+  "system": "OAH-Lagos Decision Support Framework (DSS Tropical Adaptation)",
+  "version": "1.0-draft",
+  "disclaimer": "Proposal for expert review. Adheres to OAH DSS principle: assists expert judgement, does not replace it.",
+  "rules": [
+    {
+      "rule_id": "LAGOS-DSS-01",
+      "channel_morphology": ["open_concrete_drain", "concrete_channel"],
+      "trigger_indicators": {
+        "waste_severity": "choked_flow_obstructed",
+        "dissolved_oxygen_mg_l": "< 2.0"
+      },
+      "identified_impairments": ["Hydraulic Stagnation", "Severe Organic Hypoxia"],
+      "underlying_stressors": ["Solid waste dumping", "Unregulated domestic greywater outfalls"],
+      "recommended_measures": [
+        "Mechanical channel desilting and floating debris extraction",
+        "Installation of upstream trash-capture grates at arterial junctions",
+        "Hydraulic gradient restoration to eliminate standing pool zones"
+      ]
+    },
+    {
+      "rule_id": "LAGOS-DSS-02",
+      "channel_morphology": ["open_concrete_drain", "lagoon_adjacent"],
+      "trigger_indicators": {
+        "mosquito_larvae": "high_over_10_per_dip",
+        "water_temp_celsius": "> 28.0"
+      },
+      "identified_impairments": ["Acute Vector Breeding Reservoir"],
+      "underlying_stressors": ["High water residence time", "Thermal incubation in unshaded concrete"],
+      "recommended_measures": [
+        "Targeted application of biological larvicide (e.g. Bacillus thuringiensis israelensis - Bti)",
+        "Vegetative shading of open channel banks using native littoral plants",
+        "Rapid channel flushing prior to peak breeding cycles"
+      ]
+    },
+    {
+      "rule_id": "LAGOS-DSS-03",
+      "channel_morphology": ["natural_stream"],
+      "trigger_indicators": {
+        "turbidity_ntu": "> 40.0",
+        "ph": "< 6.5"
+      },
+      "identified_impairments": ["Severe Bank Erosion", "Acidic Runoff"],
+      "underlying_stressors": ["Informal sand mining", "Uncontrolled storm runoff"],
+      "recommended_measures": [
+        "Vetiver grass bio-engineering for bank soil stabilization",
+        "Establishment of 5-meter vegetative buffer along earthen stream edges",
+        "Enforcement of setback buffer zones against illegal quarrying"
+      ]
+    }
+  ]
+}

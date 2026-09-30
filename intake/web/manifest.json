@@ -1,0 +1,9 @@
+{
+  "name": "OAH-Lagos Field Logger",
+  "short_name": "OAH-Lagos",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0284c7",
+  "theme_color": "#0284c7",
+  "description": "Offline-first FHIR stream assessment logger for tropical waterways."
+}

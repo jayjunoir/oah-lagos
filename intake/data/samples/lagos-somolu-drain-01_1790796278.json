@@ -1,0 +1,15 @@
+{
+  "site_id": "lagos-somolu-drain-01",
+  "site_name": "Somolu Secondary Drain",
+  "latitude": 6.5355,
+  "longitude": 3.3784,
+  "timestamp": "2026-09-30T19:24:38.107000Z",
+  "water_temp_celsius": 29.8,
+  "ph": 6.9,
+  "dissolved_oxygen_mg_l": 1.8,
+  "turbidity_ntu": 48.0,
+  "channel_type": "open_concrete_drain",
+  "mosquito_larvae": "high_over_10_per_dip",
+  "waste_severity": "choked_flow_obstructed",
+  "photo_urls": []
+}
